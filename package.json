@@ -1,5 +1,5 @@
 {
-	"name": "KyrinWu",
+	"name": "Lucilfer",
 	"version": "31.7.2",
 	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
 	"main": "mirai.js",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Ryy00/Kyrin-Wu/issues"
+		"url": "https://github.com/Lucilfer00/Lucilfer/issues"
 	},
 	"keywords": [
 		"bot",
@@ -22,12 +22,12 @@
 		"spermlord",
 		"miraipr0ject"
 	],
-	"author": "Kyrin Wu",
+	"author": "Lucilfer",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/Ryy00/Kyrin-Wu/issues"
+		"url": "https://github.com/Lucilfer00/Lucilfer/issues"
 	},
-	"homepage": "https://github.com/Ryy00/Kyrin-Wu",
+	"homepage": "https://github.com/Lucilfer00/Lucilfer",
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
