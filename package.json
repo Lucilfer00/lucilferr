@@ -1,7 +1,7 @@
 {
-	"name": "Lucilfer",
+	"name": "chrolloAI",
 	"version": "31.7.2",
-	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+	"description": "A simple Facebook Messenger Bot that can help you to your school subjects!!",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index",
